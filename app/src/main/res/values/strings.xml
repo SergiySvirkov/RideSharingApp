@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">RideSharingApp</string>
+	<string name="driver_name">Driver Name</string>
+	<string name="pickup_location">Pickup Location</string>
+	<string name="dropoff_location">Dropoff Location</string>
+	<string name="fare">Fare</string>
+	<string name="status">Status</string>
+</resources>
